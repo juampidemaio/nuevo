@@ -1,2 +1,3 @@
 cat /tmp/Recu2doParcial/Alumno/datos.txt
 ansible-playbook -i /tests/inventory tests/test.yml 
+cd UTN-FRA_SO_Examenes/202311_Recu/ansible/roles/
