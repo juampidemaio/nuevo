@@ -1,0 +1,2 @@
+cat /tmp/Recu2doParcial/Alumno/datos.txt
+ansible-playbook -i /tests/inventory tests/test.yml 
